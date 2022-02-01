@@ -1,0 +1,9 @@
+maze:
+  maks_element_count: 100
+  player: 2
+  wall: 1
+  space: 0
+port: 3000
+log_level: debug
+mongo_connection_string: mongodb+srv://greenjadetask:R34h7ZG35xfL5CP@cluster0.tj4jy.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+database: greenjadetask
